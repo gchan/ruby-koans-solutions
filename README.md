@@ -8,3 +8,5 @@ _"The Koans walk you along the path to enlightenment in order to learn Ruby. The
 
 [RubyKoans](http://rubykoans.com/) is released under a Creative Commons, Attribution-NonCommercial-ShareAlike, Version 3.0
 (http://creativecommons.org/licenses/by-nc-sa/3.0/) License.
+
+[![Analytics](https://ga-beacon.appspot.com/UA-70790190-2/ruby-koans-solutions/README.md?flat)](https://github.com/igrigorik/ga-beacon)
